@@ -1,3 +1,4 @@
+from dip.Solucao.repos.reports.writer import ReportWriter
 from isp.Solucao.Models.manager import Manager
 from isp.Solucao.Models.member import Member
 from isp.Solucao.Models.user import User
@@ -15,6 +16,7 @@ if __name__ == '__main__':
         repos = RepoParser.parse(response['body'])
         markdown_report = ReportsGenerator.build(MarkdownGenerator, repos)
         html_report = ReportsGenerator.build(HTMLGenerator, repos)
+        ReportWriter.write(markdown_report)
 
         print(html_report)
         print(markdown_report)

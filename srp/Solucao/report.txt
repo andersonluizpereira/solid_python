@@ -1,0 +1,32 @@
+## REPOS 
+
+**ID:** 245410505 **NAME:** -jpa.multidatabases- **STARS:** 0
+ **ID:** 299744868 **NAME:** algoritimos_java **STARS:** 0
+ **ID:** 308314958 **NAME:** andersonluizpereira **STARS:** 0
+ **ID:** 91021569 **NAME:** angular2 **STARS:** 0
+ **ID:** 210039099 **NAME:** anpcommerce **STARS:** 0
+ **ID:** 141086467 **NAME:** ApiMarvel **STARS:** 0
+ **ID:** 152486318 **NAME:** ApiMarvelAxiosNodeJs **STARS:** 0
+ **ID:** 234366284 **NAME:** api_ts_ads **STARS:** 0
+ **ID:** 111220650 **NAME:** AspNetCore.DDD.BackEnd **STARS:** 0
+ **ID:** 286111810 **NAME:** ASPNETCore3.1-SiteMVC-ContagemAcessos **STARS:** 0
+ **ID:** 122564812 **NAME:** BotFrameWorkMS **STARS:** 0
+ **ID:** 163320788 **NAME:** cervejaria **STARS:** 0
+ **ID:** 89016268 **NAME:** chatbot **STARS:** 0
+ **ID:** 256040810 **NAME:** clean-architecture-nodets **STARS:** 0
+ **ID:** 297442810 **NAME:** clean-node-api **STARS:** 1
+ **ID:** 237352699 **NAME:** clean-node-ts-ads **STARS:** 0
+ **ID:** 274124210 **NAME:** clean-reactjs **STARS:** 0
+ **ID:** 273620981 **NAME:** cronjobNodejs **STARS:** 0
+ **ID:** 88653313 **NAME:** crudnodesestudos **STARS:** 0
+ **ID:** 260950508 **NAME:** csharptodo31 **STARS:** 0
+ **ID:** 38644768 **NAME:** curso **STARS:** 0
+ **ID:** 196589589 **NAME:** CursoNodeBr **STARS:** 0
+ **ID:** 125435482 **NAME:** dashboardangular **STARS:** 0
+ **ID:** 220520600 **NAME:** delivery **STARS:** 0
+ **ID:** 220519892 **NAME:** delivery-configs **STARS:** 0
+ **ID:** 47960830 **NAME:** DesignPatterns **STARS:** 0
+ **ID:** 181071671 **NAME:** devops-insights-20190412193004926 **STARS:** 0
+ **ID:** 149307063 **NAME:** dojo_net_ **STARS:** 0
+ **ID:** 231669649 **NAME:** elixir **STARS:** 0
+ **ID:** 301870024 **NAME:** elixir_test **STARS:** 0
