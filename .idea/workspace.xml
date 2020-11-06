@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8dd4354-09b8-4f91-88f0-4d9c67791291" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lsp/Solucao/Models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lsp/Solucao/Models/manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lsp/Solucao/Models/member.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lsp/Solucao/Models/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lsp/Solucao/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lsp/Violacao/Models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lsp/Violacao/Models/manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lsp/Violacao/Models/member.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lsp/Violacao/Models/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lsp/Violacao/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lsp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isp/Solucao/Models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isp/Solucao/Models/manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isp/Solucao/Models/member.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isp/Solucao/Models/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isp/Solucao/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isp/Violacao/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isp/Violacao/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isp/Violacao/models/manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isp/Violacao/models/member.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isp/Violacao/models/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isp/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -27,38 +27,38 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="25" column="26" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="26" />
+            <state relative-caret-position="358">
+              <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
               <folding>
-                <element signature="e#0#44#0" expanded="true" />
+                <element signature="e#0#46#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lsp/Solucao/Models/member.py">
+        <entry file="file://$PROJECT_DIR$/isp/Solucao/Models/user.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lsp/Solucao/Models/user.py">
+        <entry file="file://$PROJECT_DIR$/isp/Solucao/Models/member.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="49" />
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lsp/Solucao/Models/manager.py">
+        <entry file="file://$PROJECT_DIR$/isp/Solucao/Models/manager.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -97,6 +97,14 @@
         <option value="$PROJECT_DIR$/lsp/Solucao/Models/manager.py" />
         <option value="$PROJECT_DIR$/lsp/Solucao/Models/user.py" />
         <option value="$PROJECT_DIR$/lsp/Solucao/Models/member.py" />
+        <option value="$PROJECT_DIR$/isp/Violacao/models/user.py" />
+        <option value="$PROJECT_DIR$/isp/Violacao/models/member.py" />
+        <option value="$PROJECT_DIR$/isp/Violacao/models/manager.py" />
+        <option value="$PROJECT_DIR$/isp/Solucao/manager.py" />
+        <option value="$PROJECT_DIR$/isp/Solucao/member.py" />
+        <option value="$PROJECT_DIR$/isp/Solucao/Models/user.py" />
+        <option value="$PROJECT_DIR$/isp/Solucao/Models/member.py" />
+        <option value="$PROJECT_DIR$/isp/Solucao/Models/manager.py" />
         <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
@@ -121,32 +129,50 @@
             <path>
               <item name="solid" type="b2602c69:ProjectViewProjectNode" />
               <item name="solid" type="462c0819:PsiDirectoryNode" />
-              <item name="lsp" type="462c0819:PsiDirectoryNode" />
+              <item name="isp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="solid" type="b2602c69:ProjectViewProjectNode" />
               <item name="solid" type="462c0819:PsiDirectoryNode" />
-              <item name="lsp" type="462c0819:PsiDirectoryNode" />
+              <item name="isp" type="462c0819:PsiDirectoryNode" />
               <item name="Solucao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="solid" type="b2602c69:ProjectViewProjectNode" />
               <item name="solid" type="462c0819:PsiDirectoryNode" />
-              <item name="lsp" type="462c0819:PsiDirectoryNode" />
+              <item name="isp" type="462c0819:PsiDirectoryNode" />
               <item name="Solucao" type="462c0819:PsiDirectoryNode" />
               <item name="Models" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="solid" type="b2602c69:ProjectViewProjectNode" />
               <item name="solid" type="462c0819:PsiDirectoryNode" />
-              <item name="lsp" type="462c0819:PsiDirectoryNode" />
+              <item name="isp" type="462c0819:PsiDirectoryNode" />
               <item name="Violacao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="solid" type="b2602c69:ProjectViewProjectNode" />
               <item name="solid" type="462c0819:PsiDirectoryNode" />
-              <item name="lsp" type="462c0819:PsiDirectoryNode" />
+              <item name="isp" type="462c0819:PsiDirectoryNode" />
               <item name="Violacao" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solid" type="462c0819:PsiDirectoryNode" />
+              <item name="lsp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solid" type="462c0819:PsiDirectoryNode" />
+              <item name="lsp" type="462c0819:PsiDirectoryNode" />
+              <item name="Solucao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solid" type="462c0819:PsiDirectoryNode" />
+              <item name="lsp" type="462c0819:PsiDirectoryNode" />
+              <item name="Solucao" type="462c0819:PsiDirectoryNode" />
               <item name="Models" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -158,16 +184,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lsp/Solucao/Models" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/isp/Solucao" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/isp/Solucao" />
+      <recent name="$PROJECT_DIR$/isp/Violacao/models" />
       <recent name="$PROJECT_DIR$/lsp/Solucao/Models" />
       <recent name="$PROJECT_DIR$/lsp/Violacao/Models" />
       <recent name="$PROJECT_DIR$/ocp/Solucao" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/isp/Solucao/Models" />
       <recent name="$PROJECT_DIR$/ocp/Violacao/repos/reports" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/srp/Solucao/github" />
@@ -253,18 +282,18 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.30136988" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.30136988" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -305,12 +334,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
+          <line>9</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
-          <line>9</line>
+          <line>10</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
@@ -382,13 +411,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ocp/Solucao/repos/reports_generator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lsp/Violacao/Models/member.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -431,12 +453,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ocp/Solucao/repos/reports_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isp/Violacao/models/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isp/Violacao/models/member.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isp/Violacao/models/manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isp/Solucao/Models/member.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isp/Solucao/Models/manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isp/Solucao/Models/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="25" column="26" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="26" />
+        <state relative-caret-position="358">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
           <folding>
-            <element signature="e#0#44#0" expanded="true" />
+            <element signature="e#0#46#0" expanded="true" />
           </folding>
         </state>
       </provider>
